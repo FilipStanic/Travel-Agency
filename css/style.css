@@ -1,0 +1,115 @@
+
+
+
+
+.header {
+	background-color: #2D2E2F;
+	min-height: 91px;
+}
+
+.header .logo {
+	margin-top: 14px;
+}
+
+
+.navbar-nav {
+	margin: 0 auto;
+
+}
+
+
+
+
+
+
+.main-section {
+	background-image: url(https://miro.medium.com/max/12032/1*AyjC1L2khNguaqP8nbfuuQ.jpeg);
+	height: 1277px;
+	background-size: cover;
+}
+
+
+.main-section h1 {
+	color: #527CCE;
+	font-family: "Arial", "sans-serif";
+	padding-top: 140px;
+	text-transform: uppercase;
+	font-size: 65px;
+
+}
+
+
+.search {
+	padding-top: 50px;
+}
+
+
+.search-btn {
+	position: absolute;
+	background: #2D2E2F;
+	color: white;
+	width: 300px;
+	height: 50px;
+	left: 50%;
+}
+
+.search-img {
+	height: 40px;
+	position: absolute;
+	right: 12%;
+	top: 5px;
+}
+
+
+.second-section {
+	background-color: #2D2E2F;
+	height: 1277px;
+}
+
+
+.second-section h1 {
+	color: white;
+	padding-top: 70px;
+	text-transform: uppercase;
+	font-size: 45px;
+	font-family: "Arial", "sans-serif";
+
+}
+
+.box {
+	display: flex;
+	padding-top: 150px;
+}
+
+.boxone img {
+	
+}
+
+
+.exchange-section {
+	background-color: #2D2E2F;
+	height: 777px;
+
+}
+
+
+
+.exchange-section h1 {
+	color: white;
+	padding-top: 70px;
+	text-transform: uppercase;
+	font-size: 45px;
+	font-family: "Arial", "sans-serif";
+
+}
+
+
+
+footer {
+	color: white;
+}
+
+footer ul {
+	list-style: none;
+	
+}
